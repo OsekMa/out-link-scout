@@ -1,0 +1,5 @@
+{
+  "name": "LinkOut Scout",
+  "description": "A powerful tool to extract, analyze, and export outbound (external) links from any webpage. Features AI-powered categorization using Gemini.",
+  "requestFramePermissions": []
+}
